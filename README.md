@@ -20,12 +20,12 @@ The GeoShapes Java Project is a comprehensive application that demonstrates obje
 
 ## Screenshots
 
-![Screenshot 1](![image](https://github.com/avihyb/Ex4/assets/69721418/f8397301-6e94-4272-8494-ee507d801360)
-)
+![Screenshot 2023-08-10 132215](https://github.com/avihyb/GeoShapes-Java-Project/assets/69721418/611e9039-0640-4854-9e4e-0fadb0b86d15)
+
 *Figure 1: Main GUI window with shape selection and calculation options.*
 
-![Screenshot 2](![image](https://github.com/avihyb/Ex4/assets/69721418/ac75da09-6c7d-462d-ba69-cf7b9a7806eb)
-)
+![image](https://github.com/avihyb/GeoShapes-Java-Project/assets/69721418/a0648b2a-3f00-48ed-a9de-60fdeea92c70)
+
 *Figure 2: Visualization of a polygon along with its calculated properties.*
 
 ## Getting Started
