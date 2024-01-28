@@ -51,20 +51,4 @@ Follow these instructions to get a copy of the project up and running on your lo
 3. Use your mouse to choose the size of the the shape.
 4. The shape will be visually displayed along with its properties.
 
-## Contributing
 
-Contributions are welcome! If you'd like to contribute to the project, please follow these steps:
-
-1. Fork the repository.
-2. Create a new branch: `git checkout -b feature/your-feature-name`
-3. Commit your changes: `git commit -am 'Add a new feature'`
-4. Push the branch: `git push origin feature/your-feature-name`
-5. Create a pull request explaining your changes.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
-Feel free to explore, learn, and contribute to this project. It serves as a great platform to enhance your knowledge of Java programming, object-oriented design, algorithms, and GUI development. If you encounter any issues or have ideas for improvements, please don't hesitate to open an issue or contribute to the project. Happy coding!
