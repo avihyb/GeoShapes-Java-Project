@@ -37,12 +37,6 @@ Follow these instructions to get a copy of the project up and running on your lo
 - Java Development Kit (JDK) 8 or above
 - JavaFX library
 
-### Installation
-
-1. Clone the repository: `git clone https://github.com/yourusername/GeoShapes-Java-Project.git`
-2. Navigate to the project directory: `cd GeoShapes-Java-Project`
-3. Compile the project: `javac Main.java`
-4. Run the application: `java Main`
 
 ## Usage
 
